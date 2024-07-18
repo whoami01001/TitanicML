@@ -1,5 +1,6 @@
 # TitanicML Project README
 
+
 ## Overview
 This project involves training and evaluating two machine learning models with different feature manipulation strategies. The goal is to compare their performance and assess their effectiveness in a specific task.
 
@@ -9,13 +10,14 @@ This project involves training and evaluating two machine learning models with d
 
 ## Performance
 
-### Accuracy
+### Accuracy 
 - **Model01**: 0.954545
 - **Model02**: 0.856459
 
 ### Leaderboard Scores
 - **Model01**: 0.76555
 - **Model02**: 0.77272
+
 
 ## Results
 Despite Model01 achieving a higher accuracy on the training data, Model02 performed better on the leaderboard. This suggests that the feature manipulation in Model02 may have improved its generalization to unseen data, despite a lower accuracy in training.
