@@ -1,6 +1,6 @@
 # TitanicML Project README
 
-![Titanic Kaggle](visuals/header.png)
+![Titanic Kaggle](visuals/header.jpg)
 
 ## Overview
 This project involves training and evaluating two machine learning models with different feature manipulation strategies. The goal is to compare their performance and assess their effectiveness in a specific task.
