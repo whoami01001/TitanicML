@@ -9,7 +9,7 @@ This project involves training and evaluating two machine learning models with d
 
 ## Performance
 
-### Accuracy
+### Accuracy 
 - **Model01**: 0.954545
 - **Model02**: 0.856459
 
