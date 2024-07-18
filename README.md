@@ -1,5 +1,7 @@
 # TitanicML Project README
 
+![Titanic Kaggle](visuals/header.png)
+
 ## Overview
 This project involves training and evaluating two machine learning models with different feature manipulation strategies. The goal is to compare their performance and assess their effectiveness in a specific task.
 
@@ -16,6 +18,12 @@ This project involves training and evaluating two machine learning models with d
 ### Leaderboard Scores
 - **Model01**: 0.76555
 - **Model02**: 0.77272
+
+![visuals](visuals/vis01.png)
+![visuals](visuals/vis02.png)
+![visuals](visuals/vis03.png)
+![visuals](visuals/vis04.png)
+![visuals](visuals/vis05.png)
 
 ## Results
 Despite Model01 achieving a higher accuracy on the training data, Model02 performed better on the leaderboard. This suggests that the feature manipulation in Model02 may have improved its generalization to unseen data, despite a lower accuracy in training.
